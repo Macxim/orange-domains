@@ -24,7 +24,7 @@ export default function Home() {
         <meta name="twitter:title" content="The first bridge from Web2 to Web3 on DNS" />
 
         {/* Open Graph */}
-        {/* <meta property="og:image" content={`${router.basePath}/od-og.png`} key="ogimage" /> */}
+        <meta property="og:image" content={`${router.basePath}/od-og.png`} key="ogimage" />
         <meta property="og:title" content="The first bridge from Web2 to Web3 on DNS" />
         <meta property="og:site_name" content="Orange Domains" />
         <meta property="og:url" content="" />
