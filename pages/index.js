@@ -47,7 +47,14 @@ export default function Home() {
           <div className="relative">
             <div className="flex flex-col px-6 py-8 sm:pt-8 sm:pb-4 sm:px-16">
               <div className="mx-auto">
-                <Logo />
+                <Image
+                  src="/logo.svg"
+                  alt=""
+                  layout="fixed"
+                  width={80}
+                  height={80}
+                  quality={100}
+                />
               </div>
 
               <p className="font-captions text-center uppercase text-[0.8125rem] leading-normal mt-12 text-od-navy tracking-widest">Launching in 2022</p>
