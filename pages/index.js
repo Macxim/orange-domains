@@ -54,7 +54,7 @@ export default function Home() {
 
               <p className="mt-8 text-lg font-semibold text-center text-od-black/80 sm:text-xl">Powering .BTC domains by seamlessly connecting the .locker TLD to Web3.</p>
 
-              <p className="mt-2 text-lg font-semibold text-center text-od-black/80 sm:text-xl">In partnership with DISH Network and Tucows, one of the world's largest web registrars.</p>
+              <p className="mt-2 text-lg font-semibold text-center text-od-black/80 sm:text-xl">In partnership with DISH Network and Tucows, one of the world&apos;s largest web registrars.</p>
 
               <p className="mt-6 text-lg font-medium text-center text-od-black/70">Need a .BTC domain? Go to <a className="underline transition ease-out decoration-4 decoration-od-orange hover:decoration-od-navy duration-600 underline-offset-2" href="https://btc.us/" target="_blank" rel="noopener noreferrer">BTC.US</a> for more info.</p>
 
