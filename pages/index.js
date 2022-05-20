@@ -60,7 +60,7 @@ export default function Home() {
               <p className="font-captions text-center uppercase text-[0.8125rem] leading-normal mt-12 text-od-navy tracking-widest">Launching in 2022</p>
               <h1 className="mt-4 text-3xl font-medium text-center md:leading-tight text-od-black font-headlines md:mt-8 md:text-5xl">Orange Domains:<br /> Bridging Web2 and Web3</h1>
 
-              <p className="mt-8 text-lg font-semibold text-center text-od-black/80 sm:text-xl">Powering .BTC domains by seamlessly connecting the .locker TLD to Web3.</p>
+              <p className="mt-8 text-lg font-semibold text-center text-od-black/80 sm:text-xl">Powering .BTC domains by seamlessly connecting the .locker top-level domain to Web3.</p>
 
               <p className="mt-2 text-lg font-semibold text-center text-od-black/80 sm:text-xl">In partnership with DISH Network and Tucows, one of the world&apos;s largest web registrars.</p>
 
